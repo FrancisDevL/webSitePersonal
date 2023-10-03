@@ -137,6 +137,12 @@ body {
     background-color: #000000;
 }
 
+
+.social a {
+    text-decoration: none;
+}
+
+
 nav {
     position: fixed;
     width: 100%;
